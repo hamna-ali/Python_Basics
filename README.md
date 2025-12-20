@@ -53,4 +53,4 @@ This repository serves as a learning resource for Python beginners, covering ess
 Each file is self-contained and can be run independently. Start with any topic that interests you or follow them in order to build your Python foundation.
 
 ---
-If you find this helpful, please give it a star!
+If you find this helpful, give it a star!
