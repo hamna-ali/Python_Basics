@@ -2,7 +2,7 @@
 
 A collection of Python scripts demonstrating fundamental programming concepts for beginners.
 
-## 📚 What's Included
+## What's Included
 
 | File | Description |
 |------|-------------|
@@ -15,7 +15,7 @@ A collection of Python scripts demonstrating fundamental programming concepts fo
 | `numeric_data.py` | Numeric data types and operations |
 | `strings.py` | String manipulation and methods |
 
-## 🚀 Getting Started
+## Getting Started
 
 Clone the repository
 git clone https://github.com/hamna-ali/Python_Basics.git
@@ -28,13 +28,13 @@ python filename.py
 
 text
 
-## 🎯 Purpose
+## Purpose
 
 This repository serves as a learning resource for Python beginners, covering essential topics through practical, hands-on examples. Perfect for those starting their Python journey!
 
-## 💡 Usage
+## Usage
 
 Each file is self-contained and can be run independently. Start with any topic that interests you or follow them in order to build your Python foundation.
 
 ---
-⭐ If you find this helpful, please give it a star!
+If you find this helpful, please give it a star!
