@@ -4,16 +4,32 @@ A collection of Python scripts demonstrating fundamental programming concepts fo
 
 ## What's Included
 
-| File | Description |
-|------|-------------|
-| `args_vs_kwargs.py` | Understanding function arguments and keyword arguments |
-| `conditional_statements.py` | If/else statements and conditional logic |
-| `dict.py` | Dictionary operations and methods |
-| `functions.py` | Function definitions and usage examples |
-| `lists_sets_tuples.py` | Working with Python data structures |
-| `loops_vs_iterators.py` | Comparison of different iteration methods |
-| `numeric_data.py` | Numeric data types and operations |
-| `strings.py` | String manipulation and methods |
+| File                        | Description                                                    |
+| --------------------------- | -------------------------------------------------------------- |
+| `args_vs_kwargs.py`         | Understanding function arguments and keyword arguments         |
+| `conditional_statements.py` | If/else statements and conditional logic                       |
+| `dict.py`                   | Dictionary operations and methods                              |
+| `functions.py`              | Function definitions and usage examples                        |
+| `lists_sets_tuples.py`      | Working with Python data structures                            |
+| `loops_vs_iterators.py`     | Comparison of different iteration methods                      |
+| `numeric_data.py`           | Numeric data types and operations                              |
+| `strings.py`                | String manipulation and methods                                |
+| `decorators.py`             | Python decorators with practical examples                      |
+| `OOP/inheritance.py`        | Class inheritance examples with real-world scenarios           |
+| `OOP/encapsulation.py`      | Encapsulation in Python with private attributes                |
+| `OOP/abstraction.py`        | Abstract classes and methods using ABC module                  |
+| `OOP/polymorphism.py`       | Polymorphism examples: same method, different behavior         |
+| `OOP/mixins.py`             | Using mixins for shared functionality across unrelated classes |
+| `OOP/aggregation.py`        | Aggregation examples: weak “has-a” relationships               |
+| `OOP/composition.py`        | Composition examples: strong “has-a” relationships             |
+
+## Difference between Composition and Aggregation
+| Aspect                | Composition                                                | Aggregation                                               |
+| --------------------- | ---------------------------------------------------------- | --------------------------------------------------------- |
+| Relationship Strength | Strong – the part **cannot exist** without the whole       | Weak – the part **can exist independently**               |
+| Ownership             | Whole owns the part                                        | Whole uses the part but doesn’t own it                    |
+| Example               | `Body` has `Fingers` → fingers **cannot exist separately** | `ShowRoom` has `Car` → car **can exist outside showroom** |
+| Lifecycle Dependency  | Part’s lifecycle depends on the whole                      | Part’s lifecycle is independent of the whole              |
 
 ## Getting Started
 
